@@ -1,0 +1,7 @@
+var obj = {
+    authorName: 'Ryan Dahl',
+    language: 'Node.js'
+}
+
+console.log(obj.authorName);
+console.log(obj.language);
